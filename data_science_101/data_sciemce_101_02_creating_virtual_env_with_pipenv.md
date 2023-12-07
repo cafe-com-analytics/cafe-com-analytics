@@ -33,6 +33,7 @@ By default, pipenv creates its virtual environments in his installation folder, 
 If you are using Windows, go to "initiate" button and type "environment variables", select and click on "user environment variables". A window like Figure 1 will be showed.
 
 ![Enviroment variables for user](https://github.com/cafe-com-analytics/cafe-com-analytics/blob/main/assets/images/text_02_figure_01.png)
+
 Figure 1 - Enviroment variables for user.
 
 Click on "New". Write "PIPENV_VENV_IN_PROJECT" on the variable side and "1" (without parentheses) in the value side.
