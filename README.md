@@ -3,8 +3,8 @@
 *This is the introduction to a series of small tutorials to help to work with ML projects*
 
 - [ ] Basic setup: Install python and VS Code;
-- [X] Virtual environment with venv;
-- [X] Virtual environment with pipenv;
+- [ ] Virtual environment with venv;
+- [X] Virtual environment with pipenv(./data_science_101/data_sciemce_101_02_creating_virtual_env_with_pipenv.md);
 - [ ] Virtual environment with poetry;
 - [ ] Project template with cookiecutter - Adachi;
 - [ ] How to make a ML project template with cookiecutter (+ pytest, CI/CD);
