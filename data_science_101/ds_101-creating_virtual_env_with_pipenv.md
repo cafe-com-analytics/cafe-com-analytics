@@ -1,4 +1,4 @@
-# Data Science 101 - Part 02 - Creating a virtual environment with pipenv
+# Data Science 101 - Creating a virtual environment with pipenv
 
 *This tutorial belongs to a set of tutorials intended to help other data professionals and our study group.*
 

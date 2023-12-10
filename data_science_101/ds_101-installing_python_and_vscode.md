@@ -1,4 +1,4 @@
-# Data Science 101 - Part 01 - Installing python and VS Code
+# Data Science 101 - Installing python and VS Code
 
 *This tutorial belongs to a set of tutorials intended to help other data professionals and our study group.*
 
