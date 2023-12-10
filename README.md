@@ -4,9 +4,9 @@
 
 - [ ] Basic setup: Installing python and VS Code;
 - [ ] Virtual environment with venv;
-- [X] [Virtual environment with pipenv](./data_science_101/ds_101-creating_virtual_env_with_pipenv.md);
+- [X] [Virtual environment with pipenv](data_science_101\ds_101-creating_virtual_env_with_pipenv.md);
 - [ ] Virtual environment with poetry;
-- [X] [Project template with cookiecutter - Adachi](./data_science_101\ds_101-project_template_with_cookiecutter.md);
+- [X] [Project template with cookiecutter - Adachi](data_science_101\ds_101-project_template_with_cookiecutter.md);
 - [ ] How to make a ML project template with cookiecutter (+ pytest, CI/CD);
 - [ ] Jupyter extensions;
 - [ ] Jupyter notebook template;
